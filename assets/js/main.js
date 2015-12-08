@@ -149,7 +149,9 @@ $(function(){
                 tPrev: 'Previous Project',
                 tNext: 'Next Project'
             }
+            
         });
+        
     }
     
     

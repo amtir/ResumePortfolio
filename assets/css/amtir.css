@@ -1287,7 +1287,7 @@ button.mfp-arrow:active {
   height: 60px;
   line-height: 20px;
   margin-top: -30px;
-  content: '\ea26';
+  content: '\003c'; /* */
   font-family: 'icomoon';
   font-size: 50px;
 }
@@ -1307,7 +1307,7 @@ button.mfp-arrow:active {
   height: 60px;
   line-height: 20px;
   margin-top: -30px;
-  content: '\ebf9';
+  content: '\003e';
   font-family: 'icomoon';
   font-size: 50px;
 }
